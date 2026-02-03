@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Rohit 👋
 
-<!--
-**rohitrawat2005/rohitrawat2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student  
+🎯 Aspiring Data Scientist / AI-ML Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I'm Working On
+- 📘 Learning **DSA in Java** (Kunal Kushwaha)
+- 🧠 Building strong problem-solving fundamentals
+- 🐍 Preparing for Data Science & Machine Learning using Python
+
+---
+
+## 🛠️ Tech Stack
+- **Languages**: Java, Python
+- **Core**: DSA, OOPs, Problem Solving
+- **Future Focus**: Data Science, AI & ML
+
+---
+
+## 📌 Featured Repository
+🔹 [DSA with Java](https://github.com/rohitrawat2005/dsa-with-java)
+
+---
+
+## 🌱 Learning Philosophy
+> Consistency beats intensity.
+
