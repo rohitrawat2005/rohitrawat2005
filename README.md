@@ -21,6 +21,8 @@
 
 ## 📌 Featured Repository
 🔹 [DSA with Java](https://github.com/rohitrawat2005/dsa-with-java)
+🔹 [Health Compass](https://github.com/rohitrawat2005/Health-Compass
+)
 
 ---
 
