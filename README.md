@@ -25,7 +25,7 @@ Alongside my core studies, I work on small, practical data analysis projects to 
 - Identified top customers and top product lines  
 - Calculated Average Order Value (AOV) and country-wise AOV  
 - Used pivot tables and charts for insights  
-📁 Repo: `customer-product-performance-analysis`
+📁 Repo:[ `customer-product-performance-analysis`](https://github.com/rohitrawat2005/customer_product_analysis.xlsx)
 
 ---
 
