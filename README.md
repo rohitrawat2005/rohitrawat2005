@@ -19,7 +19,7 @@ Alongside my core studies, I work on small, practical data analysis projects to 
 - Cleaned and analyzed global sales data  
 - Used pivot tables to identify country-wise sales and monthly trends  
 - Created business-friendly visualizations  
-📁 Repo: `https://github.com/rohitrawat2005/customer_product_analysis.xlsx/blob/main/README.md`
+📁 Repo: [sales-data-analysis-google-sheets](https://github.com/rohitrawat2005/sales-data-analysis-google-sheets)
 
 🔹 **Customer & Product Performance Analysis**  
 - Identified top customers and top product lines  
